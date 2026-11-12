@@ -1,0 +1,14 @@
+QUESTION RULES & Policies
+- Neutral, non-leading, one idea per question, open-ended first, then probes.
+- Laymen: simple spoken Bangla, no legal jargon. Experts: legal terms allowed but stay
+  neutral.
+- Past real experiences before hypotheticals.
+- Never ask laymen directly about their own rule-breaking; use "you or people around
+  you" framing.
+- Do not quiz anyone on legal knowledge. Do not ask experts to review our dataset in
+  this interview.
+- Laymen opening script must include a reassurance line (important for shuttle drivers,
+  who are university employees): answers are voluntary, confidential, and will not
+  affect their job or studies.
+- Experts: remind them not to share client or case details.
+
